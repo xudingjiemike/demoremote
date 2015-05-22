@@ -1,0 +1,8 @@
+add txt
+yes this is a testing
+test statius
+<<<<<<< HEAD:welcome.txt
+=======
+123455
+bye-bye
+>>>>>>> 42f8e6f... change agian:README
